@@ -130,4 +130,4 @@ async def serverinfo(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run('MTEzMDg5NjA5NTczNjc3MDcwMg.GBcdaT.vyY6zyZMaeCaTVn8cKefMfUQBVk7b3h29WqPY8')
+bot.run('your-token-here')
